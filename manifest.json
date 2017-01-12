@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "ascii emoticons",
+  "short_name": "ascii emoticons",
+  "description": "A Chrome app for searching ascii emoticons or emojis",
+  "version": "0.0.1",
+  "minimum_chrome_version": "38",
+
+  "icons": {
+    "16": "assets/ascii-emoticons-logo-16.png",
+    "128": "assets/ascii-emoticons-logo-128.png",
+    "256": "assets/ascii-emoticons-logo-256.png"
+  },
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
