@@ -222,3 +222,56 @@ html, body {
 }
 
 /*----------------------------- CUSTOM CSS -----------------------------------*/
+.mdl-color--primary-dark {
+  background-color: #32a6ad !important;
+}
+
+.mdl-demo .mdl-layout__tab-bar-container {
+  height: 80px;
+}
+
+.mdl-button {
+  margin: 10px;
+}
+
+.mdl-textfield, .mdl-textfield__input {
+  width: 100%;
+}
+
+.mdl-textfield__label:after {
+  background-color: #333;
+}
+
+.mdl-layout__content {
+  background-color: #333;
+}
+
+.mdl-button--raised {
+  background: rgb(255, 255, 255);
+}
+
+.mdl-button:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+#overview span i {
+  display: none;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 4px;
+}
+
+.mdl-demo .mdl-layout__tab-bar-container {
+  height: 62px !important;
+}
+
+.mdl-demo .mdl-layout__tab-bar {
+  height: 62px !important;
+  color: #333;
+}
+
+.mdl-textfield__label {
+  top: 19px;
+}
