@@ -223,7 +223,7 @@ html, body {
 
 /*----------------------------- CUSTOM CSS -----------------------------------*/
 .mdl-color--primary-dark {
-  background-color: #32a6ad !important;
+  background-color: #FFEB3B !important;
 }
 
 .mdl-demo .mdl-layout__tab-bar-container {
@@ -281,7 +281,19 @@ h3 {
 }
 
 .mdl-snackbar__text, .mdl-js-snackbar {
-  background-color: #32a6ad;
+  background-color: #FFEB3B;
   margin: auto;
   text-align: center;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+ 
+::-webkit-scrollbar-track {
+  background: #333;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #FFEB3B; 
 }
