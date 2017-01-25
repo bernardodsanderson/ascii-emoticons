@@ -275,3 +275,13 @@ h3 {
 .mdl-textfield__label {
   top: 19px;
 }
+
+.mdl-snackbar__text {
+  color: #333;
+}
+
+.mdl-snackbar__text, .mdl-js-snackbar {
+  background-color: #32a6ad;
+  margin: auto;
+  text-align: center;
+}

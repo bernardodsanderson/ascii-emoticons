@@ -4,6 +4,9 @@ window.onload = function() {
     // console.log($(this).text());
     setClipboardText($(this).text());
     // document.execCommand('copy');
+    var snackbarContainer = document.querySelector('#toast');
+    var data = {message: 'Copied: ' + $(this).text() };
+    snackbarContainer.MaterialSnackbar.showSnackbar(data);
   });
 };
 
