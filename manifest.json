@@ -6,11 +6,13 @@
   "version": "0.0.2",
   "minimum_chrome_version": "42",
 
-  "icons": {
-    "16": "assets/ascii-emoticons-logo-16.png",
-    "128": "assets/ascii-emoticons-logo-128.png",
-    "256": "assets/ascii-emoticons-logo-256.png"
-  },
+  "icons": [
+    {
+      "src": "assets/ascii-emoticons-logo-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
 
   "permissions": [
     "clipboardWrite"
