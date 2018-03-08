@@ -15,10 +15,10 @@
   "permissions": [
     "clipboardWrite"
   ],
+  
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FFEB3B"
 
-  "app": {
-    "background": {
-      "scripts": ["background.js"]
-    }
-  }
 }
