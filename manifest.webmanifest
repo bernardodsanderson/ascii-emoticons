@@ -1,6 +1,7 @@
 {
-  "name": "ascii emoticons",
-  "short_name": "ascii emoticons",
+  "background_color": "#ffffff",
+  "description": "ascii emoticons",
+  "display": "standalone",
   "icons": [
     {
       "src": "assets/ascii-emoticons-logo-256.png",
@@ -13,14 +14,8 @@
       "type": "image/png"
     }
   ],
-
-  "permissions": [
-    "clipboardWrite"
-  ],
-  
+  "name": "ascii emoticons",
+  "short_name": "ascii emoticons",
   "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
   "theme_color": "#FFEB3B"
-
 }
