@@ -15,3 +15,5 @@ If you would like me to add any new ones or any new features feel free to contac
 
 
 If you like this app, how about a donation? [https://cash.me/$BernardoAnderson](https://cash.me/$BernardoAnderson)
+
+Add more: https://www.jemoticons.com/en/vomit/
